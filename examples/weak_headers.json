@@ -1,0 +1,8 @@
+{
+  "url": "https://demo.local",
+  "headers": {
+    "Server": "demo",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "DENY"
+  }
+}
